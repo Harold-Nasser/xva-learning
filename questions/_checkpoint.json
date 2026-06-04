@@ -1,0 +1,45 @@
+{
+  "completed_chapters": {
+    "4": {
+      "name": "Counterparty Risk",
+      "count": 450,
+      "file": "chapter_04_counterparty_risk.json"
+    },
+    "14": {
+      "name": "Credit and Debt Value Adjustments",
+      "count": 450,
+      "file": "chapter_14_credit_and_debt_value_adjustments.json"
+    },
+    "15": {
+      "name": "Funding Value Adjustment",
+      "count": 250,
+      "file": "chapter_15_funding_value_adjustment.json"
+    },
+    "12": {
+      "name": "Default Probabilities Credit Spreads and Funding Costs",
+      "count": 300,
+      "file": "chapter_12_default_probabilities_credit_spreads_and_funding_costs.json"
+    },
+    "6": {
+      "name": "Collateral",
+      "count": 200,
+      "file": "chapter_06_collateral.json"
+    },
+    "17": {
+      "name": "Wrong-way Risk",
+      "count": 100,
+      "file": "chapter_17_wrong-way_risk.json"
+    },
+    "16": {
+      "name": "Margin and Capital Value Adjustments",
+      "count": 47,
+      "file": "chapter_16_margin_and_capital_value_adjustments.json"
+    }
+  },
+  "total_questions_generated": 1873,
+  "total_input_tokens": 2077680,
+  "total_output_tokens": 1177627,
+  "total_cost_usd": 23.897444999999998,
+  "started_at": "2026-05-23 17:48:33",
+  "last_updated": "2026-05-24 16:19:48"
+}
